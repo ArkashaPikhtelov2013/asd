@@ -58,3 +58,5 @@ Date:   Wed Jun 29 00:46:14 2016 +0300
 
     init
 (END)
+
+уже 11 если с hometask.txt
