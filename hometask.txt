@@ -1,0 +1,60 @@
+В demo README другой, human такой же что и в master
+коммитов: 9
+
+commit e4cdb57209fb1829f485d211dd552cf5aa6dc4f0 (HEAD -> master)
+Merge: ad5b6b5 949c4a1
+Author: doggidog <doggidog108@gmail.com>
+Date:   Sat Nov 25 20:34:48 2023 +0900
+
+    Merge remote-tracking branch 'origin/hat'
+
+commit ad5b6b573fa3f3de6fd672dd4e75db274f88e3e3 (boots_buttons)
+Merge: 57f0e59 1db7b7a
+Author: doggidog <doggidog108@gmail.com>
+Date:   Sat Nov 25 20:32:50 2023 +0900
+
+    Merge remote-tracking branch 'origin/buttons' into boots_buttons
+
+commit 57f0e5976d59da8d48266f4aad3e7861ebc54511
+Merge: df455a7 152f859
+Author: doggidog <doggidog108@gmail.com>
+Date:   Sat Nov 25 20:32:45 2023 +0900
+
+    Merge remote-tracking branch 'origin/boots' into boots_buttons
+
+commit df455a79680d70a43d65351f338e25d0ef26c169 (origin/master, origin/HEAD)
+Author: Andrew Khodzhakhanov <j2me@j2me.ws>
+Date:   Wed Jun 29 02:29:15 2016 +0300
+
+    fix readme
+
+commit 1db7b7a68098af0fd01a77aca5f808a817d5c2e3 (origin/buttons)
+Author: Andrew Khodzhakhanov <j2me@j2me.ws>
+Date:   Wed Jun 29 02:24:32 2016 +0300
+
+    dots
+
+commit 079fa1b2baa18b6a7a03ff3a7d00e9fca4d43a0c
+Author: Andrew Khodzhakhanov <j2me@j2me.ws>
+Date:   Wed Jun 29 01:02:37 2016 +0300
+
+    README added
+
+commit 152f859ca641e70864aa907bc1f5b1ba3b27acd9 (origin/boots)
+Author: Andrew Khodzhakhanov <j2me@j2me.ws>
+Date:   Wed Jun 29 00:52:53 2016 +0300
+
+    boots
+
+commit 949c4a16dbb5cd482965537bfb1558e078afd252 (origin/hat)
+Author: Andrew Khodzhakhanov <j2me@j2me.ws>
+Date:   Wed Jun 29 00:47:29 2016 +0300
+
+    heat added
+
+commit 7d5cd9d87337dcd48708dce597a3c0566cb349ef
+Author: Andrew Khodzhakhanov <j2me@j2me.ws>
+Date:   Wed Jun 29 00:46:14 2016 +0300
+
+    init
+(END)
